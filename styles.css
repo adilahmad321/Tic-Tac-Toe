@@ -1,0 +1,44 @@
+.head{
+    font-size: 80px;
+    font-weight: bolder;
+    color: lightslategray;
+}
+.box{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.contain{
+    width: 300px;
+    height: 300px;
+}
+.game{
+    width: 100vw;
+}
+.top{
+    border-top: none;
+}
+.left{
+    border-left: none;
+}
+.right{
+    border-right: none;
+}
+.bottom{
+    border-bottom: none;
+}
+.d-inline{
+    position: relative;
+    top: 5px;
+    font-weight: bolder;
+    color: black;
+}
+.btn{
+    font-size: 50px;
+    color: lightblue;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+}
